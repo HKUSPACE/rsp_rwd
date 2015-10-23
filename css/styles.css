@@ -1,0 +1,17 @@
+body{
+    color: #999;
+}
+
+
+#choice-selector img{
+    border: 10px solid coral;
+    cursor: pointer;
+}
+
+#choice-selector img:hover{
+    border-color:beige;
+}
+
+.container{
+    text-align: center;
+}
